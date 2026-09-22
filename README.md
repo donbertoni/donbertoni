@@ -6,7 +6,7 @@ Welcome to my GH Space. Here I'll share some of my last prototypes.
 
 Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 
-<a href="https://musical-space-doodle-6vjjp76q5qq24vjv-8501.app.github.dev/">
+<a href="https://donbertoni-omniresearchengine-app-sk31zy.streamlit.app/">
   <img src="images/ORE.png" alt="Preview OMNI Research Engine Dashboard" />
 </a>
 
