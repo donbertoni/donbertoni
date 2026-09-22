@@ -1,4 +1,4 @@
-Welcome to my GH Space. Here I'll share some of my last prototypes.
+Welcome to my GH Space. Here I'll share some of my last prototypes. Click on the images to check the demos.
 
 Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 
