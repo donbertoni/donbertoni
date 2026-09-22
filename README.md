@@ -9,7 +9,7 @@ Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 Profitcity | Social Capital Amplifier (Public Expenses on Blockchain)
 
 <a href="https://donbertoni.github.io/ProfitCity/" target="_blank">
-  <img src="images/profitcity.png" alt="Preview ProfitCity Dashboard" />
+  <img src="images/profitcity.png?v=2" alt="Preview ProfitCity Dashboard" />
 </a>
 
 MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading
