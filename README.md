@@ -1,19 +1,25 @@
 Welcome to my GH Space. Here I'll share some of my last prototypes.
 
-Omni Research Engine | Automated Financial Reports / SNAPSHOTS | B2B / B2C
+Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 
-[![Preview OMNI Research Engine Dashboard](images/ORE.png)](https://musical-space-doodle-6vjjp76q5qq24vjv-8501.app.github.dev/)
+<a href="https://musical-space-doodle-6vjjp76q5qq24vjv-8501.app.github.dev/" target="_blank">
+  <img src="images/ORE.png" alt="Preview OMNI Research Engine Dashboard" />
+</a>
 
-Profitcity | Social Capital Amplifier (Public Expenses on Blockchain) 
+Profitcity | Social Capital Amplifier (Public Expenses on Blockchain)
 
-[![Preview ProfitCity Dashboard](images/profitcity.png)](https://donbertoni.github.io/ProfitCity/)
+<a href="https://donbertoni.github.io/ProfitCity/" target="_blank">
+  <img src="images/profitcity.png" alt="Preview ProfitCity Dashboard" />
+</a>
 
+MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading
 
-MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading. The theory of evolution applied to Financial Autonomous Agents (Web3)
+<a href="https://donbertoni.github.io/MutaGen.t-Protocol/" target="_blank">
+  <img src="images/Mutagent.png" alt="Preview MutaGen.t Protocol Dashboard" />
+</a>
 
-[![Preview MutaGen.t Protocol Dashboard](images/Mutagent.png)](https://donbertoni.github.io/MutaGen.t-Protocol/)
+CONVERTIO | USDT to Pix converter without login or KYC
 
-
-CONVERTIO | USDT to Pix converter (Without login with KYC to 10k+ transactions) 
-
-[![Preview Convertio Pitch Deck](images/convertio.png)](https://donbertoni.github.io/convertio/)
+<a href="https://donbertoni.github.io/convertio/" target="_blank">
+  <img src="images/convertio.png" alt="Preview Convertio Pitch Deck" />
+</a>
