@@ -28,7 +28,7 @@ MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading
 
 <br><br>
 
-CONVERTIO | USDT to Pix converter without login or KYC
+CONVERTIO | USDT to Pix converter without login | With KYC when needed
 
 <a href="https://donbertoni.github.io/convertio/">
   <img src="images/convertio.png" alt="Preview Convertio Pitch Deck" />
