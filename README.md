@@ -4,6 +4,14 @@ Welcome to my GH Space. Here I'll share some of my last prototypes.
 
 <br>
 
+USDtoPix.com.br | Universal Amplifier to USDT to Pix convertion payment solutions
+
+<a href="https://donbertoni.github.io/convertio/">
+  <img src="images/usdtopix.png" alt="Preview Convertio Pitch Deck" />
+</a>
+
+<br><br>
+
 Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 
 <a href="https://donbertoni-omniresearchengine-app-sk31zy.streamlit.app/">
@@ -12,7 +20,7 @@ Omni Research Engine | Automated Financial Reports / SNAPSHOTS / B2B / B2C
 
 <br><br>
 
-Profitcity | Social Capital Amplifier (Public Expenses on Blockchain)
+Profitcity | Social Capital Amplifier (Public Expenses on Blockchain + Citzen De-fi and public DAO)
 
 <a href="https://donbertoni.github.io/ProfitCity/">
   <img src="https://raw.githubusercontent.com/donbertoni/donbertoni/main/images/profitcity.png?v=3" alt="Preview ProfitCity Dashboard" />
@@ -20,16 +28,8 @@ Profitcity | Social Capital Amplifier (Public Expenses on Blockchain)
 
 <br><br>
 
-MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading
+MutaGen.t Protocol | LLM Treasury + Darwin's Social Trading (Return per token burned - Proof of metabolism)
 
 <a href="https://donbertoni.github.io/MutaGen.t-Protocol/">
   <img src="images/Mutagent.png" alt="Preview MutaGen.t Protocol Dashboard" />
-</a>
-
-<br><br>
-
-CONVERTIO | USDT to Pix converter without login | With KYC when needed
-
-<a href="https://donbertoni.github.io/convertio/">
-  <img src="images/convertio.png" alt="Preview Convertio Pitch Deck" />
 </a>
